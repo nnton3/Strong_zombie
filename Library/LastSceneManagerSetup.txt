@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Strong_zombie/Start_Pack/Scenes/CrazyCash.unity
+  isLoaded: 1
+  isActive: 1
